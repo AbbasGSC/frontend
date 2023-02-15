@@ -10,6 +10,6 @@ export default {
 
 <style scoped>
 body{
-  background-color: green;
+  background-color: black;
 }
 </style>

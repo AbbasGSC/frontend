@@ -4,7 +4,7 @@
       <v-img src="https://media.istockphoto.com/id/1206806317/tr/vekt%C3%B6r/al%C4%B1%C5%9Fveri%C5%9F-sepeti-simgesi-beyaz-arka-planda-yal%C4%B1t%C4%B1lm%C4%B1%C5%9F.jpg?s=1024x1024&w=is&k=20&c=wLda6Wc3yBLi0K3AETfB6iJ0afw0cjYeI0bzQ--8yoQ=" contain width="30"></v-img>
     </v-badge>
     <v-toolbar-title class="ml-4">
-      <span class="yellow--text">ICE  </span><strong>YARNS</strong>
+      <span class="black--text">ICE  </span><strong>YARNS</strong>
     </v-toolbar-title>
     <v-spacer></v-spacer>
     <v-badge color="#FF6D59" overlap content="2" class="mr-2 mt-1">
