@@ -14,7 +14,7 @@
                       <div align="center" justify="center">
                         <v-img v-bind:src="category.img" max-height="120" max-width="120" contain></v-img>
                       </div>
-                      <v-list-item-subtitle :class="active ? 'green--text' : 'black--text'"
+                      <v-list-item-subtitle :class="active ? 'yellow--text' : 'black--text'"
                       class="caption mt-4">{{category.title}}</v-list-item-subtitle>
                     </v-list-item-content>
                   </v-list-item>
