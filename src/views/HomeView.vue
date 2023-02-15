@@ -2,7 +2,7 @@
   <v-app>
     <NavbarComponent/>
     <v-container fluid>
-
+      <SlideComponent/>
       <CategoryComponent/>
       <ProductComponent/>
       <FooterComponent/>
